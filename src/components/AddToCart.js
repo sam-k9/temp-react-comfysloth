@@ -109,6 +109,9 @@ const Wrapper = styled.section`
   }
   .btn-container {
     margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
   }
 
   .btn {
